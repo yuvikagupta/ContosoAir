@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/yuvikagupta92/yuvikagupta92/_apis/build/status/yuvikagupta.ContosoAir?branchName=master)](https://dev.azure.com/yuvikagupta92/yuvikagupta92/_build/latest?definitionId=4&branchName=master)
 
 # Microsoft.Github CI Demo
 
